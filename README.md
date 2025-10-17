@@ -15,17 +15,17 @@ The repository includes the following files
 --------------------------------------------------------------------------------------------
 LD50 calculations comet assay and predation trials analyses and figures.R 
 
-Codes used to calculate the LD50 of both planaria species
+Codes used to calculate the LD50 of both planaria species and the probability of predation of the native planaria by the invasive during predation experiments.
 
 --------------------------------------------------------------------------------------------
 Planaria activity model selection.R
 
-Code used to fit the model prediction planria activity
+Code used to identify the model best fitting the planaria activity dataset.
 
 --------------------------------------------------------------------------------------------
 Figure Planaria Movement.R
 
-Code Used to create the figure showing predicted planaria movement based on the best model selected in the script above
+Code used to create the figure showing predicted planaria movement based on the best model selected in the script above
 
 --------------------------------------------------------------------------------------------
 Raw datasets.xlsx
