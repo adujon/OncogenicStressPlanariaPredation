@@ -1,4 +1,4 @@
-This repository contains the R code and raw dataset used in the following publication
+This repository contains the R code and raw dataset used in the following iScience publication
 
 Oncogenic stress alters predator-prey interactions between a globally invasive and a native planaria species.
 
@@ -9,6 +9,9 @@ Antoine M. Dujon1,2*, Jonas Courtalon2, Anna Miltiadous1, Maci Blake1, Beata Ujv
 2CREEC/(CREES), MIVEGEC, Unité Mixte de Recherches, IRD 224–CNRS 5290–Université de Montpellier, Montpellier, France
 
 Corresponding author: antoine.dujon@yahoo.fr
+
+The publication can be found here: https://www.sciencedirect.com/science/article/pii/S2589004225023879
+DOI: https://doi.org/10.1016/j.isci.2025.114126
 
 The repository includes the following files
 
